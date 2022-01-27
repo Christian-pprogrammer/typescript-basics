@@ -1,6 +1,8 @@
 {
   "compilerOptions": {
     "target": "es5"
-  }
-  "files": []
+  },
+  "files": [
+      "./custom_types.ts"
+  ]
 }
